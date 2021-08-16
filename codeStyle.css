@@ -1,0 +1,23 @@
+pre{
+  color: white;
+}
+.keyword{
+  color: rgb(93, 109, 255)
+}
+
+.string{
+  color: rgb(141, 197, 141)
+}
+.object{
+  color: rgb(94, 168, 228);
+}
+.property{
+  color:rgb(135, 200, 253)
+}
+.operator{
+  color:rgb(255, 190, 93)
+}
+.comment{
+  font-style: italic;
+  color: rgb(177, 177, 177)
+}
